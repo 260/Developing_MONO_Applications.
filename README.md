@@ -17,4 +17,7 @@
 ###############にゃんぱすー(fifteen sharp)
 ################にゃんぱすー(sixteen sharp)
 
+In the words of Abraham Lincoln:
+> Pardon my french
+
 にゃんぱすー
