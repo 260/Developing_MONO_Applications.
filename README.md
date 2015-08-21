@@ -20,4 +20,8 @@
 In the words of Abraham Lincoln:
 > Pardon my french
 
+*This text will be italic*
+**This text will be bold**
+**Everyoen _must_ attend the meeting at 5 o'clock today.**
+
 にゃんぱすー
