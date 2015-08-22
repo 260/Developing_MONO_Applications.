@@ -24,4 +24,12 @@ In the words of Abraham Lincoln:
 **This text will be bold**
 **Everyoen _must_ attend the meeting at 5 o'clock today.**
 
+* Item
+* Item
+* Item
+
+- Item
+- Item
+- Item
+
 にゃんぱすー
