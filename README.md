@@ -32,4 +32,8 @@ In the words of Abraham Lincoln:
 - Item
 - Item
 
+1. Item 1
+2. Item 2
+3. Item 3
+
 にゃんぱすー
