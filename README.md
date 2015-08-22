@@ -61,4 +61,6 @@ what is x
 
 [Visit GitHub!](https://www.github.com)
 
+[Visit GitHub!](https://www.github.com "Nyanpass")
+
 にゃんぱすー
