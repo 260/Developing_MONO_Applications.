@@ -45,4 +45,6 @@ In the words of Abraham Lincoln:
     * You might want to consider making a new list.
 3. Item 3
 
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
+
 にゃんぱすー
